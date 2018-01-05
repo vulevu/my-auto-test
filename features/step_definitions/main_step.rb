@@ -4,5 +4,5 @@ When("I click Sign Out link") do
 end
 
 Then("I should be logout") do
-  i=0
+  
 end
