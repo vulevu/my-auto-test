@@ -13,7 +13,6 @@ Feature: RPM - First Data
   Examples:
   |  users                  |  passwords     |
   |  nt_pos2                |  Bambus2017,,, |
-  |  nenad                  |  Bambus2017,,, |
   |  nt_merchant2           |  Bambus2017,,, |
   |  nt_merchant_admint2    |  Bambus2017,,, |
   |  nt_view_only_boarding2 |  Bambus2017,,, |
